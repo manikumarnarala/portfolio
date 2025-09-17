@@ -415,7 +415,7 @@ a:hover{
     background-size: contain;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(/mani-portfolio-main/assets/images/projects/about2.png);
+    background-image: url('/assets/images/projects/about2.png');
 }
 
 @media (max-width: 576px) {
